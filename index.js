@@ -1,7 +1,7 @@
 //
 // import app from './src/app';
-   import Login 
-// import React ,{Component}from 'react'
+   import Login from './src/components/Login'
+
 // import {
 //   AppRegistry,
 //   Image,
