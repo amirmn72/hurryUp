@@ -47,7 +47,7 @@ var styles = StyleSheet.create({
           margin:10,
           marginRight:7,
           // color:"#5256c9",
-          //fontWeight:'bold'
+            fontSize:16
 
         },
 
