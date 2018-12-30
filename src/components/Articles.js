@@ -41,9 +41,5 @@ componentWillMount(){
     }
   render(){
 
-    return(
-<FlatList
-
+    return(hello
     )
-  }
-}

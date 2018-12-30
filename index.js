@@ -178,4 +178,4 @@ componentWillMount(){
 }
 
 
-AppRegistry.registerComponent('firstapp' , () => Login)
+registerComponent('firstapp' , () => Login)
