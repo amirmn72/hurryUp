@@ -18,6 +18,6 @@ const {image,title,body}=this.props
 }
 }
 const styles=StyleSheet.create({
-  image:{width:'100%', height:200}
-
+  image:{width:'100%', height:200},
+body:{color:'blue'}
 })
