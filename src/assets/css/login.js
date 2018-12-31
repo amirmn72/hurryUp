@@ -34,7 +34,7 @@ var styles = StyleSheet.create({
          inputGroups:{
           marginRight:20,
           marginLeft:20,
-          marginBottom:20,
+
 
 
 
