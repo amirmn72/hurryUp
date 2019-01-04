@@ -96,7 +96,7 @@ const DismissKeyboard=({children})=>
 export default class Amir extends Component {
 state={show:true,error:''};
 
-componentWillMount(){
+component
     this.validation=this.validation.bind(this)
 }
 
